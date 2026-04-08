@@ -33,3 +33,4 @@ build/
 *.h5
 *.checkpoint
 .DS_Store
+__MACOSX/
