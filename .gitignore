@@ -1,0 +1,35 @@
+# Python compliled files
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# datasets
+**/cs231n/datasets/cifar-10-batches-py/
+**/cs231n/datasets/*.zip
+**/cs231n/datasets/*.tar.gz
+
+# environment folders
+venv/
+env/
+.venv/
+bin/
+lib/
+share/
+
+# VS Code settings
+.vscode/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Assignment 2/3 
+**/cs231n/*.so
+**/cs231n/*.c
+**/cs231n/*.cpp
+build/
+
+# other files
+*.pkl
+*.h5
+*.checkpoint
+.DS_Store
